@@ -7,6 +7,7 @@ This project is a hands-on exploration of how an ETL (Extract, Transform, Load) 
 Once the data was ready, I tackled key business problems by writing SQL queries to gain actionable insights. These queries helped uncover trends and patterns, such as calculating total sales revenue, identifying the most frequently ordered products, and analyzing the most profitable states and segments. I also analyzed sales by month and segment, as well as identified top-performing regions, all of which contributed to a clearer understanding of business performance. By simulating this end-to-end ETL workflow and performing detailed analysis in SQL, I’ve gained valuable insights into how companies streamline their data pipelines to drive better decision-making and business strategies.
 
 
+<img width="768" alt="Screenshot 2025-03-13 at 5 10 49 PM" src="https://github.com/user-attachments/assets/802b96f9-e404-4736-88df-b59e3df69df6" />
 
 
 
